@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { Button, Card, Row, Col } from 'react-materialize';
 
 class App extends Component {
   render() {
